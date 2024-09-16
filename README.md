@@ -1,3 +1,5 @@
+# Version npm - 10.7.0, Node.js - v20.15.0
+
 # app
 
 This template should help get you started developing with Vue 3 in Vite.
